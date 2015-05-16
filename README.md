@@ -5,6 +5,9 @@ If you plan to report an issue, to make it easy to recreate, please follow the t
 
 ##### TEMPLATE BELOW #####
 Name (Just to log who reports issues):
+
 Slack Username (In case we need to follow something up):
+
 The Issue (Provide enough detail for the issue to be recreated):
+
 Platform the bug is on (TeamSpeak / In-Game):
