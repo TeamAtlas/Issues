@@ -1,5 +1,5 @@
 # Issues
-If you have found any bugs within the Server, TeamSpeak or any other platform related to Team Atlas, please post them here as an "issue".
+If you have found any bugs within the Server, TeamSpeak or any other platform related to Team Atlas, please post them here as an "issue". To submit an issue, please follow this link: https://github.com/TeamAtlas/Issues/issues/new
 
 If you plan to report an issue, to make it easy to recreate, please follow the template provided below.
 
